@@ -37,7 +37,7 @@
 
 <br />
 
-## Selected Wor
+## Selected Work
 
 <p align="center"><a href="https://github.com/Deepsbytee?tab=repositories"><strong>View all repositories &#8594;</strong></a></p>
 
