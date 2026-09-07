@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 430" role="img" aria-labelledby="title desc">
+  <title id="title">Deepsbytee ASCII art panel</title>
+  <desc id="desc">A dark terminal panel containing a pixel-style portrait made from code characters.</desc>
+  <rect width="620" height="430" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="618" height="428" rx="12" fill="none" stroke="#30363d"/>
+  <circle cx="24" cy="25" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="25" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="25" r="6" fill="#28c840"/>
+  <text x="310" y="29" fill="#6e7681" font-family="monospace" font-size="11" text-anchor="middle">deepsbytee@github:~$ ./portrait.sh</text>
+  <text x="310" y="70" fill="#39d353" font-family="monospace" font-size="13" text-anchor="middle">01000100 01000101 01000101 01010000 01010011</text>
+  <g fill="#8b949e" font-family="monospace" font-size="13" text-anchor="middle">
+    <text x="310" y="110">        .-''''-.        </text>
+    <text x="310" y="126">      .'  .--.  '.      </text>
+    <text x="310" y="142">     /   /    \   \     </text>
+    <text x="310" y="158">    ;   |  o o |   ;    </text>
+    <text x="310" y="174">    |   |   __ |   |    </text>
+    <text x="310" y="190">    ;    \____/    ;    </text>
+    <text x="310" y="206">     \    .--.    /     </text>
+    <text x="310" y="222">      '.  '--'  .'      </text>
+    <text x="310" y="238">        '-.__.-'        </text>
+    <text x="310" y="254">      .--|  |--.        </text>
+    <text x="310" y="270">     /   |  |   \       </text>
+    <text x="310" y="286">    /____|__|____\      </text>
+    <text x="310" y="302">       /  ||  \         </text>
+    <text x="310" y="318">      /___||___\        </text>
+  </g>
+  <text x="310" y="366" fill="#58a6ff" font-family="monospace" font-size="15" text-anchor="middle">keep building, keep learning</text>
+  <text x="310" y="397" fill="#6e7681" font-family="monospace" font-size="12" text-anchor="middle">$ echo "ideas into software"</text>
+</svg>

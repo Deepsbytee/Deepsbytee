@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 430" role="img" aria-labelledby="title desc">
+  <title id="title">Deepsbytee terminal profile</title>
+  <desc id="desc">Terminal-style profile card for Deepsbytee.</desc>
+  <rect width="620" height="430" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="618" height="428" rx="12" fill="none" stroke="#30363d"/>
+  <circle cx="24" cy="25" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="25" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="25" r="6" fill="#28c840"/>
+  <text x="34" y="78" fill="#58a6ff" font-family="monospace" font-size="22" font-weight="bold">deepsbytee@github</text>
+  <line x1="34" y1="98" x2="586" y2="98" stroke="#30363d"/>
+  <g font-family="monospace" font-size="15">
+    <text x="34" y="137" fill="#39d353">&gt; ROLE</text><text x="220" y="137" fill="#c9d1d9">Developer</text>
+    <text x="34" y="177" fill="#39d353">&gt; FOCUS</text><text x="220" y="177" fill="#c9d1d9">Building + Learning</text>
+    <text x="34" y="217" fill="#39d353">&gt; STACK</text><text x="220" y="217" fill="#c9d1d9">Python / JS / TS / React</text>
+    <text x="34" y="257" fill="#39d353">&gt; TOOLS</text><text x="220" y="257" fill="#c9d1d9">Git / GitHub / VS Code</text>
+    <text x="34" y="297" fill="#39d353">&gt; CURRENT</text><text x="220" y="297" fill="#c9d1d9">Exploring new ideas</text>
+    <text x="34" y="347" fill="#39d353">&gt; STATUS</text><text x="220" y="347" fill="#39d353">ONLINE</text><circle cx="294" cy="342" r="5" fill="#39d353"/>
+  </g>
+  <text x="34" y="395" fill="#6e7681" font-family="monospace" font-size="13">$ echo "build something meaningful"</text>
+</svg>

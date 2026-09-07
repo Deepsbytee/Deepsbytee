@@ -5,58 +5,69 @@
 <br />
 
 <div align="center">
-	<h1>Hi, I'm Deepsbytee</h1>
-	<p><strong>Builder. Learner. Problem solver.</strong></p>
-	<p>Turning curious ideas into useful, well-crafted software.</p>
-	<a href="https://github.com/Deepsbytee">
-		<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-	</a>
-	<a href="https://github.com/Deepsbytee?tab=repositories">
-		<img src="https://img.shields.io/badge/Explore_my_work-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-	</a>
+	<h1>deepsbytee@github ~ $ whoami</h1>
+	<p><strong>Building useful software with curiosity and intent.</strong></p>
+	<p>Full-stack developer focused on thoughtful interfaces, reliable systems, and continuous learning.</p>
 </div>
 
-## Introduction + Terminal
+<table>
+	<tr>
+		<td width="50%" align="center" valign="middle">
+			<img src="assets/deepsbytee-ascii.svg" width="100%" alt="ASCII art portrait made from code characters" />
+		</td>
+		<td width="50%" valign="middle">
+			<img src="assets/deepsbytee-terminal.svg" width="100%" alt="Deepsbytee terminal profile card" />
+		</td>
+	</tr>
+</table>
 
-```text
-deepsbytee@github:~$ whoami
-developer who enjoys learning by building
+<p align="center">
+	<a href="https://github.com/Deepsbytee?tab=repositories">
+		<img src="https://img.shields.io/badge/Explore_my_work-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="Explore repositories" />
+	</a>
+</p>
 
-deepsbytee@github:~$ focus --today
-write better code, understand the why, ship useful things
+<hr />
 
-deepsbytee@github:~$ status
-online | curious | always learning
-```
-
-## Tech Stack
+## Toolkit
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,github,vscode&perline=3" alt="Technology stack icons" />
+	<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,git,github,vscode&perline=5" alt="Technology stack icons" />
 </div>
 
-<p align="center"><a href="https://github.com/Deepsbytee?tab=repositories">See all repositories -></a></p>
+<br />
 
-## GitHub Stats
+## Selected Work
+
+<div align="center">
+	<a href="https://github.com/Deepsbytee?tab=repositories">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepsbytee&repo=Deepsbytee&theme=transparent&hide_border=true" alt="Deepsbytee profile repository" />
+	</a>
+	<a href="https://github.com/Deepsbytee?tab=repositories">
+		<img src="https://github-readme-stats.vercel.app/api?username=Deepsbytee&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="Deepsbytee repository overview" />
+	</a>
+</div>
+
+<p align="center"><a href="https://github.com/Deepsbytee?tab=repositories"><strong>View all repositories &#8594;</strong></a></p>
+
+<hr />
+
+## Activity
 
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepsbytee&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-## Currently Learning
+## Now Building
 
 - Building projects that are simple to use and easy to maintain
 - Improving full-stack development fundamentals
 - Writing clearer code, documentation, and technical explanations
 - Exploring new tools through small, practical experiments
 
-## Quote / Ending
+<hr />
 
 <div align="center">
-	<br />
-	<blockquote>
-		<p><em>"The best way to learn is to build something you care about."</em></p>
-	</blockquote>
-	<p><strong>Thanks for stopping by.</strong></p>
-	<p><a href="https://github.com/Deepsbytee">Let's build something meaningful.</a></p>
+	<p><em>"The best way to learn is to build something you care about."</em></p>
+	<p><strong>Thanks for stopping by.</strong><br /><a href="https://github.com/Deepsbytee">Let's build something meaningful &#8594;</a></p>
 </div>
