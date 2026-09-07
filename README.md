@@ -37,16 +37,7 @@
 
 <br />
 
-## Selected Work
-
-<div align="center">
-	<a href="https://github.com/Deepsbytee?tab=repositories">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepsbytee&repo=Deepsbytee&theme=transparent&hide_border=true" alt="Deepsbytee profile repository" />
-	</a>
-	<a href="https://github.com/Deepsbytee?tab=repositories">
-		<img src="https://github-readme-stats.vercel.app/api?username=Deepsbytee&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="Deepsbytee repository overview" />
-	</a>
-</div>
+## Selected Wor
 
 <p align="center"><a href="https://github.com/Deepsbytee?tab=repositories"><strong>View all repositories &#8594;</strong></a></p>
 
