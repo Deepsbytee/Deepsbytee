@@ -13,7 +13,7 @@
 <table>
 	<tr>
 		<td width="50%" align="center" valign="middle">
-			<img src="assets/deepsbytee-ascii.gif?v=1" width="100%" alt="Animated ASCII art portrait made from code characters" />
+			<img src="assets/deepsbytee-ascii.gif?v=2" width="100%" alt="Animated abstract code symbol made from terminal characters" />
 		</td>
 		<td width="50%" valign="middle">
 			<img src="assets/deepsbytee-terminal.gif?v=1" width="100%" alt="Animated Deepsbytee terminal profile card" />
