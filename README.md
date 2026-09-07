@@ -32,7 +32,7 @@
 ## Toolkit
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,git,github,vscode&perline=5" alt="Technology stack icons" />
+	<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,github,vscode&perline=5" alt="Technology stack icons" />
 </div>
 
 <br />
