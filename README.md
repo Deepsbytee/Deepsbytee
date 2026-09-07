@@ -13,10 +13,10 @@
 <table>
 	<tr>
 		<td width="50%" align="center" valign="middle">
-			<img src="assets/deepsbytee-ascii.svg" width="100%" alt="ASCII art portrait made from code characters" />
+			<img src="assets/deepsbytee-ascii.svg?v=2" width="100%" alt="ASCII art portrait made from code characters" />
 		</td>
 		<td width="50%" valign="middle">
-			<img src="assets/deepsbytee-terminal.svg" width="100%" alt="Deepsbytee terminal profile card" />
+			<img src="assets/deepsbytee-terminal.svg?v=2" width="100%" alt="Deepsbytee terminal profile card" />
 		</td>
 	</tr>
 </table>
