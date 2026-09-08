@@ -37,12 +37,6 @@
 
 <br />
 
-## Activity
-
-<div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepsbytee&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
 ## Now Building
 
 - Building projects that are simple to use and easy to maintain
